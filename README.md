@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArshpreetS
-- 👀 I’m currently interested in front end development.
-- 🌱 I’m currently exploring different fields of computer science.
-- 💞️ I’m looking to collaborate on...
+- 👀 I’m currently interested in Cyber-Security.
+- 🌱 I’m currently exploring different fields of Computer Science.
 
 <!---
 ArshpreetS/ArshpreetS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
