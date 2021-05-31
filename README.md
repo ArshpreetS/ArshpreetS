@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ArshpreetS
+<p align = "center"># 👋 Hi, I’m @ArshpreetS</p>
+<p align = "center">## I am nuts about computers.It all started with playing computer games :)</p>
 - 👀 I’m currently interested in Cyber-Security.
 - 🌱 I love exploring different fields of Computer Science.
 
