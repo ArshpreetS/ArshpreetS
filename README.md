@@ -1,4 +1,4 @@
-# <p align = "center"> 👋 Hi, I’m Arshpreet Singh</p>
+# <p align = "center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Arshpreet Singh</p>
 ## <p align = "center"> I am nuts about computers. It all started with playing computer games :)</p>
 - 👀 I’m currently interested in Cyber-Security.
 - 🌱 I love exploring different fields of Computer Science.
