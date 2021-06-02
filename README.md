@@ -2,7 +2,7 @@
 ## <p align = "center"> I am nuts about computers. It all started with playing computer games :)</p>
 - 👀 I’m currently interested in Cyber-Security.
 - 🌱 I love exploring different fields of Computer Science.
-- 🏃 Always ready to colaborate on projects.
+- 🏃 Always ready to collaborate on projects.
 - 🍟 Love to talk to people.
 
 [![some numbers](https://github-readme-stats.vercel.app/api?username=ArshpreetS)](https://github.com/anuraghazra/github-readme-stats)
