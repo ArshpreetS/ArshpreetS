@@ -1,5 +1,5 @@
 # <p align = "center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Arshpreet Singh</p>
-## <p align = "center"> I am nuts about computers. It all started with playing computer games :)</p>
+## <p align = "center"> I am nuts about computers.</p>
 - 👀 I’m currently interested in Cyber-Security.
 - 🌱 I love exploring anything about Computers.
 - 🏃 Always ready to collaborate on projects.
