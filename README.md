@@ -1,5 +1,5 @@
 <!-- HEADER SECTIOn -->
-# <p align = "center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Arshpreet Singh</p>
+# <p align="center">👋 Hi, I’m Arshpreet Singh</p>
 ## <p align = "center"> I am nuts about computers.</p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
