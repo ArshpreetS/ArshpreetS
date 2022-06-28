@@ -1,6 +1,6 @@
 <!-- HEADER SECTIOn -->
 # <p align="center">👋 Hi, I’m Arshpreet Singh</p>
-## <p align = "center"> I am nuts about computers.</p>
+<!-- ## <p align = "center"> I am nuts about computers.</p> -->
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
