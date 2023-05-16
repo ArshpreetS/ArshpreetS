@@ -12,6 +12,7 @@
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- SKILLS AND COOL THINGS -->
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![BASH](https://img.shields.io/badge/Bash-282a36.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -44,7 +45,8 @@
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<p align ="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArshpreetS&show_icons=true&count_private=true&theme=react" />
+[![Arshpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArshpreetS)](https://github.com/anuraghazra/github-readme-stats)
+
   
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 # <p align = "center">Talk with me</p>
